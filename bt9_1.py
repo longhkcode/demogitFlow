@@ -1,1 +1,2 @@
 print("Longdeptrai")
+print("Fixed")
